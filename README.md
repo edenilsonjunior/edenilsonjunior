@@ -1,9 +1,7 @@
-### Olá! Eu sou o Edenilson 
+## Olá! Eu sou o Edenilson 
 
 - 🔭 Atualmente sou estudante do curso de Sistemas para Internet no Instituto Federal de São Paulo - Campus Araraquara
 - 🌱 Aprendendo sobre JavaScript, Java, C, html, css
-
-##
 
  <a href="https://github.com/edenilsonjunior"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edenilsonjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
