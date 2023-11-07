@@ -6,8 +6,10 @@
 ##
 
  <a href="https://github.com/edenilsonjunior"></a>
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenilsonjunior&layout=compact&langs_count=7&theme=dracula"/>
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=edenilsonjunior&show_icons=true&theme=dracula" alt="GitHub Stats" width="auto"  height="168"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenilsonjunior&layout=compact&theme=dracula" alt="Top Languages" width="auto" height="168"/>
+</div>
  <br>
  <br>
  
