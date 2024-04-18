@@ -1,7 +1,7 @@
 # Olá! Eu sou o Edenilson
 
 - 🔭 Atualmente sou estudante do curso de Sistemas para Internet no Instituto Federal de São Paulo - Campus Araraquara
-- 🌱 Programador Java, C#, JS
+- 🌱 Programador C#, Java, JS
 
 ##
 
