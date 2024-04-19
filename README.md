@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edenilsonjunior&show_icons=true&theme=dracula" alt="GitHub Stats" width="auto"  height="168"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenilsonjunior&layout=compact&theme=dracula" alt="Top Languages" width="auto" height="168"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenilsonjunior&layout=compact&theme=dracula&hide=html%2Ccss%2Cmakefile" alt="Top Languages" width="auto" height="168"/>
 </div>
 
 <br>
