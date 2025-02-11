@@ -2,9 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End
-
-👩‍💻 Atualmente eu trabalho como [Estágiario em Desenvolvimento] @ [5by5 | Soluções em Sistemas]
+👩‍💻 Atualmente eu trabalho como [Desenvolvedor Back-end] @ [5by5 | Soluções em Sistemas]
 
 🎓 Eu estudo [Sistemas para Internet - Instituto Federal(IFSP)](https://www.arq.ifsp.edu.br/superiores/tecnologia-em-sistemas-para-internet)
 
@@ -20,13 +18,19 @@
   &nbsp;
   <img alt="sql server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   &nbsp;
+  <img alt="oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  &nbsp;
   <img alt="mongoDB" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   &nbsp;
   <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   &nbsp; 
+  <img alt="Kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+  &nbsp;
+  <img alt="Azure devops" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+  &nbsp;  
   <img  alt="js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   &nbsp;
-  <img  alt="php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img  alt="php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />   
 </div>
 
 ##
