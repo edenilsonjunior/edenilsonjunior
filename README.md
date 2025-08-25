@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-👩‍💻 Atualmente eu trabalho como [Desenvolvedor Back-end] @ [5by5 | Soluções em Sistemas]
+👩‍💻 Atualmente eu trabalho como [Desenvolvedor Back-end] @ [Hapvida NotreDame Intermédica]
 
 🎓 Eu estudo [Sistemas para Internet - Instituto Federal(IFSP)](https://www.arq.ifsp.edu.br/superiores/tecnologia-em-sistemas-para-internet)
 
